@@ -1,0 +1,20 @@
+2) OOP Question:
+answer: class
+------------------------------------------
+3)HTTP & Network question:
+client: the browser like chrome or device like laptop that i use to access youtube and initiate the request.
+          -------------------------
+server: the system where youtube is stored .it gets the request and send back the response to web page.
+          -------------------------
+end_user: me as a person who use the browser to open youtube. 
+          --------------------------
+Differences:
+
+The client starts the process by asking the server for the webpage as mentioned in the question "https://youtube.com".
+The server is like the host. It waits for requests, finds the correct webpage, and sends it back.
+The end-user is the one using the browser to see and interact with YouTube.
+          -----------------------------
+The HTTP method  is GET because the browser is asking for the homepage of YouTube and not sending any data.
+suggested Code:
+200 OK: Indicates the request was successful and return with the request content.
+--------------------------------------------
